@@ -1,7 +1,8 @@
 /**
-* Tori Becks' Redd Hott Bott
-* Current version: 1.7920beta
-* Cut.Copied.Pasted and Plagiarised by (RedLightr!0t) 
+ Tori Becks' Redd Hott Bott
+ Current version: 1.7920beta
+ Cut.Copied.Pasted.Plagiarised.Altered.Expanded.Improved by (RedLight.r!0t)
+    - Forked from base code designed by scottp13 (ScottBot/Hades) a derivative of Ultrabot
 **/
 
 // User settings
@@ -60,11 +61,6 @@ cb.settings_choices = [
 
 
 // Variables
-var createdBy = 'ReddLightRegexx';
-var currentVer = '1.7920beta';
-var creditWho = forkedCode; 
-var bossCEO = cb.room_slug; 
-
 // Boolean variables for enable/disable of room functions
 var bTipTitles = false;     // Tip titles & king feature enable/disable
 var bLeaderboard = false;   // Leader board feature enable/disable
